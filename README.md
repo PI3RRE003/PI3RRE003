@@ -1,4 +1,4 @@
-<h3 align="center">Prazer !👋 Me chamo Vitor Pierre, estudante de S.I e futuro dev fullstack</h3>
+<h3 align="center">Prazer !👋 Me chamo Vitor Pierre, Estudante de S.I e Futuro Dev FullStack</h3>
 
 ###
 
